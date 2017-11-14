@@ -9,5 +9,5 @@ See the [main repo README](../README.md) for preparing the Tessel for use with J
 ```
 $ t2 init
 $ npm install johnny-five tessel-io
-$ node index.js
+$ t2 run index.js
 ```
