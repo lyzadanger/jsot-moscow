@@ -2,7 +2,7 @@ This example blinks an LED attached to pin 5 of the Uno.
 
 ## Circuit Diagram
 
-![Arduino LED Diagram](./arduino-led.diagram.png)
+![Arduino LED Diagram](./arduino-led-diagram.png)
 
 ## Preparation
 
