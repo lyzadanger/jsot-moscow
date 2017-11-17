@@ -14,6 +14,20 @@ You need to flash the Arduino Uno's microcontroller with firmata firmware:
 
 See the great [getting-started guide on Tessel's site](http://tessel.github.io/t2-start/).
 
+You'll need to install the `t2-cli` package globally:
+
+```
+$ npm install -g t2-cli
+```
+
+This will give you the `t2` CLI utility, which you'll use for such things as:
+
+* `t2 init` to set up a Tessel project
+* `t2 list` to list all nearby Tessels
+* `t2 run` to deploy and run a project on a Tessel
+
+_Note_: The npm package is named `t2-cli` but the utility it installs is called `t2`.
+
 ### Creating Tessel Projects with Johnny-Five
 
 When setting up new projects with Tessel 2 and Johnny-Five, you'll need to:

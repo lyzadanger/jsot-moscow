@@ -1,3 +1,5 @@
+# JavaScript on Things, Moscow, November, 2017
+
 ## Learning Links and Resources
 
 * [SparkFun Tutorials](https://learn.sparkfun.com/tutorials)
